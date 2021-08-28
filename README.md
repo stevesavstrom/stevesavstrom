@@ -18,7 +18,5 @@ I'm a full stack software engineer with experience based in Minneapolis, MN.
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevesavstrom)](https://github.com/stevesavstrom/github-readme-stats)
-
 
 ![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevesavstrom&show_icons=true&theme=react)
