@@ -1,9 +1,17 @@
 # 👋 Hi, I'm Steve
 
-👨‍💻 I'm a full stack software engineer based in Minneapolis, MN.
-👨‍🎓 Prime Digital Academy, Full Stack Software Engineering certification.
+👨‍💻 Full stack software engineer based in Minneapolis, MN.
+
+👨‍🎓 Prime Digital Academy, Full Stack Software Engineering certification (Higgs cohort, 2021)
+
 🍎 Teacher to Teach - 12 years in the classroom in Seoul, Chicago, and Minneapolis.
+
 🤝 Love to build, learn, connect, and collaborate.
+
+## Let's connect!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/stevesavstrom/)
+
+Email me: [steve.savstrom@gmail.com](steve.savstrom@gmail.com)
 
 ## Technical Skills
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
