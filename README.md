@@ -2,7 +2,7 @@
 
 👨‍💻 Full stack software engineer based in Minneapolis, MN.
 
-👨‍🎓 Prime Digital Academy, Full Stack Software Engineering certification (Higgs cohort, 2021)
+👨‍🎓 [Prime Digital Academy](https://www.primeacademy.io/) Full Stack Software Engineering certification (Higgs cohort, 2021)
 
 🍎 Teacher to Teach - 12 years in the classroom in Seoul, Chicago, and Minneapolis.
 
