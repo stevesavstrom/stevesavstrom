@@ -1,6 +1,9 @@
-# 👋 Hi, I'm Steve 👨‍💻
+# 👋 Hi, I'm Steve
 
-I'm a full stack software engineer with experience based in Minneapolis, MN.
+👨‍💻 I'm a full stack software engineer based in Minneapolis, MN.
+👨‍🎓 Prime Digital Academy, Full Stack Software Engineering certification.
+🍎 Teacher to Teach - 12 years in the classroom in Seoul, Chicago, and Minneapolis.
+🤝 Love to build, learn, connect, and collaborate.
 
 ## Technical Skills
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
