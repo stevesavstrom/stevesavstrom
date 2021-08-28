@@ -11,11 +11,7 @@
 ## Let's connect!
 Connect with me on [LinkedIn](https://www.linkedin.com/in/stevesavstrom/)
 
-<<<<<<< HEAD
 Email me [steve.savstrom@gmail.com](steve.savstrom@gmail.com)
-=======
-Email me 📫  [steve.savstrom@gmail.com](steve.savstrom@gmail.com)
->>>>>>> 1c040475e510e18387759c45eda6c30f91216944
 
 ## Technical Skills
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
