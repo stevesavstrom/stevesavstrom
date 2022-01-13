@@ -26,6 +26,7 @@ Email me [steve.savstrom@gmail.com](steve.savstrom@gmail.com)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 
 
 ![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevesavstrom&show_icons=true&theme=react)
