@@ -27,5 +27,3 @@ Email me [steve.savstrom@gmail.com](steve.savstrom@gmail.com)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevesavstrom&show_icons=true&theme=react)
